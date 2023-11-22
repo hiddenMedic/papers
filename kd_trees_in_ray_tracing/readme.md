@@ -8,5 +8,5 @@ Three different approaches to building kd trees are analyzed:
     + A solution which sacrifices the optimality of the solution for building speed, using piecewise quadratic approximations of the SAH function
 3) Parallel KD trees for dynamic scenes
     + A solution which allows for parallelization during building, as well as incorporating a heuristic binning strategy
-\
+
 [View in Github](https://github.com/hiddenMedic/papers/blob/main/kd_trees_in_ray_tracing/KDtrees.pdf)
